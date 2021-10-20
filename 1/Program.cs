@@ -25,7 +25,7 @@ namespace _1
                 
 
             } while (liter != '.');
-            Console.WriteLine("Your string end. You have " + space + "speces. Your string: " + text);
+            Console.WriteLine("\n Your string end. You have (" + space + ") speces. Your string: " + text);
             Console.Read();
         }
     }

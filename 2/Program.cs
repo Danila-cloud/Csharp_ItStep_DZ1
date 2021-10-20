@@ -29,12 +29,12 @@ namespace _2
             if(firstpass == secondpass)
             {
                 Console.WriteLine(" !" +
-                    "your ticket is happy!");
+                    "\n your ticket is happy!");
             }
             else
             {
                 Console.WriteLine(" !" +
-                    "your ticket is not happy!");
+                    "\n your ticket is not happy!");
             }
 
 
